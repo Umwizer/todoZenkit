@@ -1,0 +1,30 @@
+{
+  "name": "todozenkit",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "project of todolist which help people to manage their schedule",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dotenv": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umwizer/todoZenkit.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Umwizerwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umwizer/todoZenkit/issues"
+  },
+  "homepage": "https://github.com/Umwizer/todoZenkit#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.2.4"
+  }
+}
