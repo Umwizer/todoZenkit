@@ -1,0 +1,16 @@
+{
+    "swagger":"3.0",
+    "info":{
+        "title":"schedule API",
+        "description":"API documentation for contact CRUD operations",
+        "version":"1.0.0"
+
+    },
+    "host":"localhost:3000",
+    "basepath":"",
+    "schemes": ["http", "https"],
+    "paths":{
+        
+    }
+
+}
